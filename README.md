@@ -1,14 +1,3 @@
-###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely
-
----
-# Join the Discord Community
-
-This source code is for the Java/Spring microservices course available on my 
-YouTube channel. You can join the discord for help and discussion here:
-
-https://discord.gg/nCrDnfCE
-
-
 # Patient Service
 
 ---
